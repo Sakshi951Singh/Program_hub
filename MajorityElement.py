@@ -3,7 +3,7 @@ def Majority(frequency,maximum):
         if(value==maximum):
             print(key)
             break
-List = [8,3,4,8,8]
+List = [8,3,4,8,8,3]
 frequency = {}
 
 for i in List:
